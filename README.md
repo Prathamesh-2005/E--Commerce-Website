@@ -1,7 +1,7 @@
 # E-Commerce Website
 
 ## Overview
-This is a simple e-commerce website built using **Spring Boot, React, JPA, and MySQL**. The project provides basic e-commerce functionalities without user authentication.
+This is a simple e-commerce website built using **Spring Boot, React, JPA, and MySQL**. The project provides basic e-commerce functionalities.
 
 ## Features
 - Browse products
